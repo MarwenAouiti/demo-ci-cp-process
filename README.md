@@ -1,2 +1,2 @@
 # demo-ci-cp-process
-Spring boot CI/CD using Travis CI & Docker
+Spring boot CI/CD using Travis CI & Docker & CodeCov
